@@ -15,3 +15,5 @@ Para correr la minitarea, ejecutamos en consola:
 ```
 node challenge.js
 ```
+
+También puedes visualizar los datos de forma grafica aqui => https://buda-challenge.now.sh

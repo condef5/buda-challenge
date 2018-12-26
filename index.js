@@ -27,6 +27,6 @@ async function fetchSpread() {
   return Promise.all(promises).then(data => data);
 }
 
-app.listen('8000', () => {
+app.listen('3000', () => {
   console.log('server is running');
 });
