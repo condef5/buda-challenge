@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "buda-promise": "^0.1.5"
+    "buda-promise": "^0.1.5",
+    "express": "^4.16.4",
+    "randomcolor": "^0.5.3"
   }
 }

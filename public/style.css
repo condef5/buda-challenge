@@ -1,0 +1,29 @@
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: none;
+  color: #000;
+}
+
+body {
+  margin: 0;
+  line-height: 1.5;
+  color: #292b2c;
+  background-color: #f7f7f9;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+canvas {
+  max-width: 800px;
+  margin: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12), 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+  padding: 1em;
+  background: #fff;
+  border-radius: 5px;
+}
